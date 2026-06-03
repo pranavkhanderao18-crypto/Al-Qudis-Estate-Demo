@@ -1,0 +1,6 @@
+{
+  "name": "Al Qudis Estate Demo",
+  "description": "Premium real estate platform showcasing luxury properties, agents, and lead generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
